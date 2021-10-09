@@ -1,0 +1,16 @@
+imovel-valorizado
+zonaurbana-valorizado
+zonarural-valorizado
+alvenaria-valorizado
+madeira-valorizado
+esquina-valorizado
+quadra-valorizado
+quitadoImovel-valorizado
+imovel-comum
+zonaurbana-comum
+zonarural-comum
+alvenaria-comum
+madeira-comum
+esquina-comum
+quadra-comum
+quitadoImovel-comum
